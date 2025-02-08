@@ -2,14 +2,14 @@
 <h3 align="center">Web Pentester | Red Teamer | Bug Bounty Hunter</h3>
 <p align="center">Computer Engineering Student & CyberSecurity Researcher</p>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=web-cipher-007&label=Profile%20views&color=0e75b6&style=flat" alt="web-cipher-007" /> 
 </p>
 
 ---
 
 ### 🔧 **Skills & Tools**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-red" />
   <img src="https://img.shields.io/badge/Tools-Burp%20Suite%20|%20Nmap%20|%20Metasploit-blue" />
   <img src="https://img.shields.io/badge/OS-ParrotOS%20|%20Kali%20|%20Windows-green" />
@@ -28,7 +28,7 @@
 
 
 ### 📬 **Connect With Me**
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/sandeshpoudel007">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
