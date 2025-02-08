@@ -22,7 +22,7 @@ I'm a **Web Penetration Tester**, **Bug Bounty Hunter**, **Red Teamer** & a Comp
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contacts
 
 - **Email**: 079bct074@ioepc.edu.np
 - **LinkedIn**: https://www.linkedin.com/in/sandeshpoudel007
