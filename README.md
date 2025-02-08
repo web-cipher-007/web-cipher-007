@@ -1,30 +1,43 @@
-# 👋 Hi, I'm **Sandesh Poudel**!
+<h1 align="center">Hi 👋, I'm Sandesh Poudel!</h1>
+<h3 align="center">Web Pentester | Red Teamer | Bug Bounty Hunter</h3>
+<p align="center">Computer Engineering Student & CyberSecurity Researcher</p>
 
-I'm a **Web Penetration Tester**, **Bug Bounty Hunter**, **Red Teamer** & a Computer Engineering Student with a passion for finding vulnerabilities, securing systems, and helping organizations improve their security posture.
-
----
-
-## 🛠️ Skills & Expertise
-
-- **Web Application Security**: OWASP Top 10, SQL Injection, XSS, CSRF, SSRF, etc.
-- **Network Security**: Firewall configuration, IDS/IPS, VPNs, and network segmentation.
-- **Red Teaming**: Adversary simulation, lateral movement, privilege escalation, and persistence.
-- **Bug Bounty Hunting**: Experienced with platforms like HackerOne & Bugcrowd.
-- **Tools**: Burp Suite, Nmap, Metasploit, Wireshark, SQLMap, Nessus, etc.
-- **Programming/Scripting**: C, C++, Python, Bash/Zsh.
-- **OS**: Linux (ParrotOS), Windows.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=web-cipher-007&label=Profile%20views&color=0e75b6&style=flat" alt="web-cipher-007" /> 
+</p>
 
 ---
 
-## 📝 Blog Posts
-
-- Loading ...
+### 🔧 **Skills & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-red" />
+  <img src="https://img.shields.io/badge/Tools-Burp%20Suite%20|%20Nmap%20|%20Metasploit-blue" />
+  <img src="https://img.shields.io/badge/OS-ParrotOS%20|%20Kali%20|%20Windows-green" />
+  <br>
+  <img src="https://img.shields.io/badge/Code-Python%20|%20C%20|%20C++-yellow" />
+  <img src="https://img.shields.io/badge/Networking-IDS/IPS%20|%20VPNs%20|%20Firewalls-orange" />
+</p>
 
 ---
 
-## 📫 Contacts
+### 🏆 **Highlights**
+- 🐛 Active Bug Bounty Hunter (HackerOne/Bugcrowd)
+- 🔴 Red Teamer with focus on adversary simulation
+- 🎓 Pursuing Computer Engineering @ IOE, Nepal
 
-- **Email**: 079bct074@ioepc.edu.np
-- **LinkedIn**: https://www.linkedin.com/in/sandeshpoudel007
-- **X (formerly Twitter)**: https://x.com/_Sandesh_007
-- **My Portfolio Site**: https://sandeshpoudel270.com.np
+
+
+### 📬 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/sandeshpoudel007">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/_Sandesh_007">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:079bct074@ioepc.edu.np">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+Thanks for visiting!
