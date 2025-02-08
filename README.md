@@ -5,6 +5,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=web-cipher-007&label=Profile%20views&color=0e75b6&style=flat" alt="web-cipher-007" /> 
 </p>
+<script> alert("You have been hacked!😂😂 Please ignore this! Sorry! 😂")</script>
 
 ---
 
