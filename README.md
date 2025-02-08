@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sandessh Poudel**!
+# 👋 Hi, I'm **Sandesh Poudel**!
 
 I'm a **Web Penetration Tester**, **Bug Bounty Hunter**, **Red Teamer** & a Computer Engineering Student with a passion for finding vulnerabilities, securing systems, and helping organizations improve their security posture.
 
