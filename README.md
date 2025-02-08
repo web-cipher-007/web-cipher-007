@@ -5,7 +5,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=web-cipher-007&label=Profile%20views&color=0e75b6&style=flat" alt="web-cipher-007" /> 
 </p>
-<script> alert("You have been hacked!😂😂 Please ignore this! Sorry! 😂")</script>
 
 ---
 
@@ -13,11 +12,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-red" /> 
   <br>
-  <img src="https://img.shields.io/badge/Tools-Burp%20Suite%20|%20Nmap%20|%20Metasploit-blue" /> 
+  <img src="https://img.shields.io/badge/Tools-Burp%20Suite%20Pro|%20Nmap%20|%20Metasploit-blue" /> 
   <br>
   <img src="https://img.shields.io/badge/OS-ParrotOS%20|%20Kali%20|%20Windows-green" />
   <br>
-  <img src="https://img.shields.io/badge/Code-Python%20|%20C%20|%20C++-yellow" />
+  <img src="https://img.shields.io/badge/Code/Shells-Python%20|%20C%20|%20C++-yellow" />
   <br>
   <img src="https://img.shields.io/badge/Networking-IDS/IPS%20|%20VPNs%20|%20Firewalls-orange" />
 </p>
@@ -29,7 +28,7 @@
 - 🔴 Red Teamer with focus on adversary simulation
 - 🎓 Pursuing Computer Engineering @ IOE-Purwanchal Campus, Nepal.
 
-
+---
 
 ### 📬 **Connect With Me**
 <p align="left">
