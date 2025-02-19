@@ -4,7 +4,7 @@
 </h2>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&width=435&lines=Web+Pentester+%7C+Red+Teamer+%7C+Bug+Hunter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Prompt&duration=2000&pause=500&width=435&lines=Web+Penetration+Tester;Red+Teamer;Bug+Bounty+Hunter;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 </div>
 <p align="center">Computer Engineering Student & CyberSecurity Researcher</p>
