@@ -7,8 +7,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Prompt&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Web+Penetration+Tester;Red+Teamer;Bug+Bounty+Hunter;Computer+Engineering+Student;Cybersecurity+Researcher" alt="Typing SVG" />
   </a>
 </div>
-<p align="center">I am currently learning web penetration testing and bug hunting, driven by a strong passion for cybersecurity. As I expand my expertise in web application and network security, I focus on identifying vulnerabilities and understanding how to secure digital assets.</p>
-
+<p align="center">
+  <strong>I am an aspiring Ethical Hacker, Web Penetration Tester, and Bug Bounty Hunter</strong>,  
+  currently learning and refining my skills in cybersecurity. Driven by a strong passion for securing  
+  digital systems, I specialize in <strong>Web Application and Network Security</strong>, focusing on  
+  identifying vulnerabilities and reporting them before they can be exploited.
+</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=web-cipher-007&label=Profile%20views&color=0e75b6&style=flat" alt="web-cipher-007" /> 
 </p>
