@@ -1,6 +1,6 @@
 <h2 align="center">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I am Sandesh Poudel.
 </h2>
 <h3 align="center">Web Pentester | Red Teamer | Bug Bounty Hunter</h3>
 <p align="center">Computer Engineering Student & CyberSecurity Researcher</p>
