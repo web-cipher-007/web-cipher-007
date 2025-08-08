@@ -4,13 +4,13 @@
 </h2>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Prompt&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Web+Penetration+Tester;Android+App+Developer;Computer+Engineering+Student;Cybersecurity+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Prompt&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Web+Penetration+Tester;Android+App+Developer;Computer+Engineering+Student;Cybersecurity+Researcher" alt="Typing SVG" />
   </a>
 </div>
 <p align="center">
-  <strong>I am an aspiring Ethical Hacker, Web Penetration Tester, and Bug Bounty Hunter</strong>,  
-  currently learning and refining my skills in cybersecurity. Driven by a strong passion for securing  
-  digital systems, I specialize in <strong>Web Application and Network Security</strong>, focusing on  
+  <strong>I am an aspiring Ethical Hacker, Web Penetration Tester, and Android App Developer</strong>,  
+  currently learning and refining my skills in App Development. Driven by a strong passion for securing  
+  digital systems, I specialize in <strong>Web Application, Network Security & Android App Development</strong>, focusing on  
   identifying vulnerabilities and reporting them before they can be exploited.
 </p>
 <p align="center"> 
@@ -37,6 +37,7 @@
 ### 🏆 **Highlights**
 - 🐛 Active Bug Bounty Hunter (HackerOne/Bugcrowd)
 - 🔴 Red Teamer with focus on adversary simulation
+- 📱 Android App Developer — Android dev mode: ON. 📲⚙️
 - 🎓 Pursuing Computer Engineering @ IOE-Purwanchal Campus, Nepal.
 
 ---
