@@ -35,8 +35,8 @@
 ---
 
 ### 🏆 **Highlights**
-- 🐛 Web Penetration Tester/Bug Bounty Hunter (HackerOne/Bugcrowd)
-- 🔴 Red Teamer with focus on adversary simulation
+- 🌐 Web Penetration Tester/Bug Bounty Hunter (HackerOne/Bugcrowd)
+- 🔐 Web Security Researcher — Securing the digital frontier.
 - 📱 Android App Developer — Android dev mode: ON. 📲⚙️
 - 🎓 Pursuing Computer Engineering @ IOE-Purwanchal Campus, Nepal.
 
