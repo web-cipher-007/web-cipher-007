@@ -23,11 +23,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-red" /> 
   <br>
-  <img src="https://img.shields.io/badge/Tools-Burp%20Suite%20Pro|%20Nmap%20|%20Metasploit-blue" /> 
+  <img src="https://img.shields.io/badge/Tools-Burp%20Suite%20Pro%20|%20Nmap%20|%20Metasploit%20|%20Android%20Studio-blue" /> 
   <br>
   <img src="https://img.shields.io/badge/OS-ParrotOS%20|%20Kali%20|%20Windows-green" />
   <br>
-  <img src="https://img.shields.io/badge/Code/Shells-Python%20|%20C%20|%20C++-yellow" />
+  <img src="https://img.shields.io/badge/Code/Shells-Python%20|%20C%20|%20C++|%20Kotlin%20|%20bash%20|%20powershell-yellow" />
   <br>
   <img src="https://img.shields.io/badge/Networking-IDS/IPS%20|%20VPNs%20|%20Firewalls-orange" />
 </p>
@@ -35,7 +35,7 @@
 ---
 
 ### 🏆 **Highlights**
-- 🐛 Active Bug Bounty Hunter (HackerOne/Bugcrowd)
+- 🐛 Web Penetration Tester/Bug Bounty Hunter (HackerOne/Bugcrowd)
 - 🔴 Red Teamer with focus on adversary simulation
 - 📱 Android App Developer — Android dev mode: ON. 📲⚙️
 - 🎓 Pursuing Computer Engineering @ IOE-Purwanchal Campus, Nepal.
