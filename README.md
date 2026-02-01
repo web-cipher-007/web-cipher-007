@@ -32,6 +32,27 @@
   <img src="https://img.shields.io/badge/Networking-IDS/IPS%20|%20VPNs%20|%20Firewalls-orange" />
 </p>
 
+<div align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JS" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" alt="Kali" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://portswigger.net/burp/pro" target="_blank"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/burpsuite_pro.ico" height="48" width="48" alt="Burp Suite Professional" /></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
+  <a href="https://developer.android.com/" target="_blank"><img src="https://cdn.simpleicons.org/android/3DDC84?viewbox=auto&size=32" height="48" width="48" alt="Android" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" height="48" width="48" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/android-studio.png" height="48" width="48" alt="Android Studio" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+</div>
+
 ---
 
 ### 🏆 **Highlights**
