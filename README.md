@@ -8,7 +8,7 @@
   </a>
 </div>
 <p align="center">
-  <strong>I am an aspiring Ethical Hacker, Web Penetration Tester, and Android App Developer</strong>,  
+  I am an aspiring <strong>Android App Developer, Web Penetration Tester & Cybersecurity Researcher</strong>,  
   currently learning and refining my skills in App Development. Driven by a strong passion for securing  
   digital systems, I specialize in <strong>Web Application, Network Security & Android App Development</strong>, focusing on  
   identifying vulnerabilities and reporting them before they can be exploited.
