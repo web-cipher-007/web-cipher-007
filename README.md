@@ -33,7 +33,8 @@
 </p>
 
 <div align="center">
-<table><tr>
+<table>
+<tr>
 <td><a href="https://www.cprogramming.com/" target="_blank" title="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" alt="C" height="64" /></a></td>
 <td><a href="https://www.cplusplus.com/" target="_blank" title="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="64" /></a></td>
 <td><a href="https://www.python.org/" target="_blank" title="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="64" /></a></td>
@@ -41,6 +42,8 @@
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="64" /></a></td>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JS" height="64" /></a></td>
 <td><a href="https://github.com/" target="_blank" title="https://github.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="64" /></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linux.org/" target="_blank" title="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="64" /></a></td>
 <td><a href="https://pop.system76.com/" target="_blank" title="https://pop.system76.com/"><img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" alt="Pop!_OS" height="64" width="64" /></a></td>
 <td><a href="https://www.kali.org/" target="_blank" title="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" alt="Kali" height="64" /></a></td>
@@ -48,12 +51,15 @@
 <td><a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" title="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="64" /></a></td>
 <td><a href="https://portswigger.net/burp/pro" target="_blank" title="https://portswigger.net/burp/pro"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/burp.png" height="64" width="64" alt="Burp Suite" /></a></td>
 <td><a href="https://developer.android.com/" target="_blank" title="https://developer.android.com/"><img src="https://cdn.simpleicons.org/android/3DDC84?viewbox=auto&size=32" height="64" width="64" alt="Android" /></a></td>
+</tr>
+<tr>
 <td><a href="https://kotlinlang.org/" target="_blank" title="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="64" /></a></td>
 <td><a href="https://developer.android.com/jetpack/compose" target="_blank" title="https://developer.android.com/jetpack/compose"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="64" width="64" alt="Compose" /></a></td>
 <td><a href="https://developer.android.com/studio" target="_blank" title="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/android-studio.png" height="64" width="64" alt="Android Studio" /></a></td>
 <td><a href="https://dart.dev/" target="_blank" title="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="64" /></a></td>
 <td><a href="https://flutter.dev/" target="_blank" title="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="64" /></a></td>
-</tr></table>
+</tr>
+</table>
 </div>
 
 ---
