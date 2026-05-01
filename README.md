@@ -33,30 +33,40 @@
 </p>
 
 <div align="center">
-  <!-- Languages & Web -->
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JS" /></a>
-  <br><br>
-  <!-- Security & System -->
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" alt="Kali" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
-  <a href="https://portswigger.net/burp/pro" target="_blank"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/burpsuite_pro.ico" height="48" width="48" alt="Burp Suite Professional" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <br><br>
-  <!-- Mobile Development -->
-  <a href="https://developer.android.com/" target="_blank"><img src="https://cdn.simpleicons.org/android/3DDC84?viewbox=auto&size=32" height="48" width="48" alt="Android" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" height="48" width="48" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/android-studio.png" height="48" width="48" alt="Android Studio" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <table border="0" style="border-collapse: collapse; border-style: hidden; background-color: transparent;">
+    <tr>
+      <!-- Row 1: Languages & Web -->
+      <td style="border: none;"><a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" height="32" /></a></td>
+      <td style="border: none;"><a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="32" /></a></td>
+      <td style="border: none;"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="32" /></a></td>
+      <td style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="32" /></a></td>
+      <td style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="32" /></a></td>
+      <td style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="32" /></a></td>
+      <td style="border: none;"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=git" height="32" /></a></td>
+    </tr>
+    <tr>
+      <!-- Row 2: Systems & Security -->
+      <td style="border: none;"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="32" /></a></td>
+      <td style="border: none;"><a href="https://pop.system76.com/"><img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" height="32" width="32" /></a></td>
+      <td style="border: none;"><a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" height="32" /></a></td>
+      <td style="border: none;"><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="32" /></a></td>
+      <td style="border: none;"><a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="32" /></a></td>
+      <td style="border: none;"><a href="https://portswigger.net/burp/pro"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/burpsuite_pro.ico" height="32" width="32" /></a></td>
+      <td style="border: none;"><a href="https://developer.android.com/"><img src="https://cdn.simpleicons.org/android/3DDC84?viewbox=auto&size=32" height="32" width="32" /></a></td>
+    </tr>
+    <tr>
+      <!-- Row 3: Mobile Development -->
+      <td style="border: none;"><a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" height="32" /></a></td>
+      <td style="border: none;"><a href="https://developer.android.com/jetpack/compose"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="32" width="32" /></a></td>
+      <td style="border: none;"><a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/web-cipher-007/web-cipher-007/refs/heads/main/files/android-studio.png" height="32" width="32" /></a></td>
+      <td style="border: none;"><a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" height="32" /></a></td>
+      <td style="border: none;"><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="32" /></a></td>
+      <td style="border: none;"></td>
+      <td style="border: none;"></td>
+    </tr>
+  </table>
 </div>
+
 ---
 
 ### 🏆 **Highlights**
