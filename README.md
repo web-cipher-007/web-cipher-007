@@ -10,7 +10,7 @@
 <p align="center">
   I am an aspiring <strong>Android App Developer, Web/App Penetration Tester & Cybersecurity Researcher</strong>,  
   currently learning and refining my skills in App Development. Driven by a strong passion for securing  
-  digital systems, I specialize in <strong>Web & Mobile Application, Network Security & Android App Development</strong>, focusing on  
+  digital systems, I specialize in <strong>Web & Mobile Application Security, Network Security & Android App Development</strong>, focusing on  
   identifying vulnerabilities and reporting them before they can be exploited.
 </p>
 <p align="center"> 
