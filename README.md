@@ -65,7 +65,7 @@
 ---
 
 ### 🏆 **Highlights**
-- 🌐 Web Penetration Tester (OWASP Top 10 & others)
+- 🌐 Penetration Tester (OWASP Top 10 & others)
 - 🔐 Web Security Researcher — Securing the digital frontier.
 - 📱 Android App Developer — Android dev mode: ON. 📲⚙️
 - 🎓 Pursuing Computer Engineering @ IOE-Purwanchal Campus, Nepal.
